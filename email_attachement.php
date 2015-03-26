@@ -1,7 +1,7 @@
 <?php
 // array with filenames to be sent as attachment
 $files = array("file_1.ext","file_2.ext","file_3.ext",......);
- 
+ $t ="fdF";
 // email fields: to, from, subject, and so on
 $to = "mail@mail.com";
 $from = "mail@mail.com";
